@@ -1,8 +1,5 @@
 from Player import Player
 
-# à mettre dans un json
-
-
 def main():
     # input("Player 1, what's your name?\n")
     player_1 = Player("J1")
