@@ -3,7 +3,8 @@ import time
 from Ship import Ship
 
 class Player(object):
-
+    
+    # à mettre dans un json
     SHIPS = [
         {
             "name" : "Porte-avion",
